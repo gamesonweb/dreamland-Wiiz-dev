@@ -3,8 +3,6 @@
   - Valat Claire
   - Yarmolich Viktoriia
 
-
-
 Framed Dreams – Un voyage entre rêve et oubli
 
 Vous vous réveillez dans une maison qui vous semble à la fois familière et étrangement décalée. En explorant les pièces, une sensation d’inquiétude vous envahit. Vous découvrez un vaste salon, mais un détail étrange vous frappe : un mur couvert de cadres vides… ou du moins, c’est ce que vous croyez.
