@@ -24,7 +24,14 @@ Le code complet, ses dépendances ainsi que les fichiers de configuration permet
 
 Le jeu est hébergé en ligne grâce à [Vercel](https://vercel.com/).
 
-🌐 **Lien vers le jeu (bientôt disponible)** : [Framed Dreams](https://framed-dreams.vercel.app/)
+🌐 **Lien vers le jeu** : [Framed Dreams](https://framed-dreams.vercel.app/)
+
+---
+
+🎥 **Vidéos de présentation :**
+
+- [Introduction du jeu – YouTube]([https://youtu.be/T_iRE9_BWqI?si=cQ5JhVmCV1Ke_CW-))  
+- [Exploration du monde de Mars – YouTube]([https://www.youtube.com/watch?v=LIEN_MARS](https://youtu.be/VSMor1WZANE?si=vTSE5bTb9WNwZnKp))
 
 ---
 
