@@ -30,8 +30,8 @@ Le jeu est hébergé en ligne grâce à [Vercel](https://vercel.com/).
 
 🎥 **Vidéos de présentation :**
 
-- [Introduction du jeu – YouTube]([https://youtu.be/T_iRE9_BWqI?si=cQ5JhVmCV1Ke_CW-))  
-- [Exploration du monde de Mars – YouTube]([https://www.youtube.com/watch?v=LIEN_MARS](https://youtu.be/VSMor1WZANE?si=vTSE5bTb9WNwZnKp))
+- [Introduction du jeu – YouTube](https://youtu.be/VSMor1WZANE?si=sNQD-Xd4l_JN5WNK)  
+- [Exploration du monde de Mars – YouTube](https://youtu.be/T_iRE9_BWqI?si=cOZb_xlIySx2mng6)
 
 ---
 
